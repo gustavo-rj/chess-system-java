@@ -11,7 +11,7 @@ public class Piece {
 		position = null;
 	}
 
-	protected Board getBoard() {  /* somente classes e subclasses teram acesso*/
+	protected Board getBoard() { 
 		return board;
 	}
 
